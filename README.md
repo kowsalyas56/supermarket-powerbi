@@ -14,4 +14,5 @@ To analyze supermarket sales and understand product performance, branchwise sale
    What are monthly sales trends?<br/>
    Which payment method has highest COGS?<br/>
    How is gross income distributed by branch?<br/>
-   Dashboard Interactions :<a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/Screenshot%20(1).png"></a>
+   
+   Dashboard Interaction:<a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/Screenshot%20(1).png">view Dashboard</a>
