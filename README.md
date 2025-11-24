@@ -7,13 +7,13 @@ To analyze supermarket sales and understand product performance, branchwise sale
 <a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/supermarket_sales.csv">Dataset</a>
 
 ## Questions
-   Which product line has highest tax?<br/>
-   Which branch has highest sales?<br/>
-   What are total sales, tax, and unit price?<br/>
-   How do male and female customers differ?<br/>
-   What are monthly sales trends?<br/>
-   Which payment method has highest COGS?<br/>
-   How is gross income distributed by branch?<br/>
+  - Which product line has highest tax?<br/>
+  - Which branch has highest sales?<br/>
+  - What are total sales, tax, and unit price?<br/>
+  - How do male and female customers differ?<br/>
+  - What are monthly sales trends?<br/>
+  - Which payment method has highest COGS?<br/>
+  - How is gross income distributed by branch?<br/>
    
    Dashboard Interaction:<a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/Screenshot%20(1).png">view Dashboard</a>
 
@@ -26,3 +26,5 @@ To analyze supermarket sales and understand product performance, branchwise sale
   Designed and formatted dashboard<br/>
 
 ## Dashboard
+<img width="1344" height="749" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/79c7e565-5d7d-4110-9e08-80b785ac5594" />
+
