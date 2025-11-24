@@ -16,3 +16,13 @@ To analyze supermarket sales and understand product performance, branchwise sale
    How is gross income distributed by branch?<br/>
    
    Dashboard Interaction:<a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/Screenshot%20(1).png">view Dashboard</a>
+
+## Process
+ - Imported data into Power BI<br/>
+  Cleaned and formatted using Power Query<br/>
+  Created DAX measures (Total Sales, Tax, Unit Price, COGS)<br/>
+  Built charts: bar, donut, line, cards, gauge<br/>
+  Added filters for Gender and Branch<br/>
+  Designed and formatted dashboard<br/>
+
+## Dashboard
