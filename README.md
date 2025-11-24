@@ -8,10 +8,10 @@ To analyze supermarket sales and understand product performance, branchwise sale
 
 ## Questions
    Which product line has highest tax?<br/>
-   Which branch has highest sales?
-   What are total sales, tax, and unit price?
-   How do male and female customers differ?
-   What are monthly sales trends?
-   Which payment method has highest COGS?
-   How is gross income distributed by branch?
+   Which branch has highest sales?<br/>
+   What are total sales, tax, and unit price?<br/>
+   How do male and female customers differ?<br/>
+   What are monthly sales trends?<br/>
+   Which payment method has highest COGS?<br/>
+   How is gross income distributed by branch?<br/>
    Dashboard Interactions :<a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/Screenshot%20(1).png"></a>
