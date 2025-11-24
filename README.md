@@ -28,7 +28,7 @@ To analyze supermarket sales and understand product performance, branchwise sale
 ## Dashboard
 <img width="1344" height="749" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/79c7e565-5d7d-4110-9e08-80b785ac5594" />
 
-## Project insights
+## Project Insights
     - Branch A performs best in sales and income
     - Food & Beverages has highest tax contribution
     - Female customers purchased slightly more
