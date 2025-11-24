@@ -7,7 +7,7 @@ To analyze supermarket sales and understand product performance, branchwise sale
 <a href="https://github.com/kowsalyas56/supermarket-powerbi/blob/main/supermarket_sales.csv">Dataset</a>
 
 ## Questions
-   Which product line has highest tax?
+   Which product line has highest tax?<br/>
    Which branch has highest sales?
    What are total sales, tax, and unit price?
    How do male and female customers differ?
